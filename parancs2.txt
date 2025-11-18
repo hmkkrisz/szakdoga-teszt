@@ -1,0 +1,1 @@
+echo "Sikeres T1102 teszt" > C:\Temp\T1102_teszt.txt
